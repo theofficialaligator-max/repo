@@ -3,7 +3,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: alligator
 Filename: debs/Ac1D.deb
-Size: 29416
-MD5sum: 25c3bd4d081d0388afbdddcfbc8daea6
+Size: 29420
+MD5sum: c768499b73bd4ea50ebc08db629f3584
 Description: Early alpha build of Ac1D
 Section: Utilities

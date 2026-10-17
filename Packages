@@ -2,8 +2,13 @@ Package: com.itzalligator.ac1d
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: alligator
-Filename: debs/Ac1D.deb
-Size: 29830
-MD5sum: cc961572b356f16ccf66596e5eb5953f
-Description: Early alpha build of Ac1D. Real UI elements will be added in 0.0.2 alpha.
-Section: Utilities
+Depends: firmware (>= 5.0), firmware (<< 7.0)
+Filename: ./debs/Ac1D.deb
+Size: 29832
+MD5sum: 4333488ba7c2f5916eefab9969e04368
+SHA1: f53ebeb9164e64112131fdc0949e711b10b33f9a
+SHA256: 0d4be8b8868f3ebba686d0f0a34c3a3d697456635740c063639cb453b02dc980
+Section: Tweaks
+Description: Ac1D tweak by alligator
+Name: Ac1D
+
